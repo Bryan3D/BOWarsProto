@@ -1,0 +1,26 @@
+[
+	{
+		"file": "F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\Source\\BOWarsProto\\BOWarsProto.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\.vscode\\compileCommands_Default\\BOWarsProto.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\Source\\BOWarsProto\\BOWarsProto.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\.vscode\\compileCommands_Default\\BOWarsProto.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\Source\\BOWarsProto\\BOWarsProto.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\ProtoTypeS\\BOWarsProto\\BOWarsProto\\.vscode\\compileCommands_Default\\BOWarsProto.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
